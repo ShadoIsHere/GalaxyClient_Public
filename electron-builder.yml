@@ -1,8 +1,8 @@
-appId: 'modrealmslauncher'
-productName: 'ModRealms Launcher'
+appId: 'galaxyclient'
+productName: 'Galaxy Client'
 artifactName: '${productName}-setup-${version}.${ext}'
 
-copyright: 'Copyright © 2021 ModRealms'
+copyright: 'Copyright © 2021 GalaxyClient'
 
 asar: true
 compression: 'maximum'

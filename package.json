@@ -40,7 +40,8 @@
     "request": "^2.88.2",
     "semver": "^7.3.5",
     "tar-fs": "^2.1.1",
-    "winreg": "^1.2.4"
+    "winreg": "^1.2.4",
+    "yarn": "^1.22.17"
   },
   "devDependencies": {
     "electron": "^13.5.1",
