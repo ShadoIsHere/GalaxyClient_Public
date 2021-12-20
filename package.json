@@ -5,9 +5,9 @@
   "description": "A Client for Minecraft.",
   "author": "Saturn Interactive",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/ShadoIsHere/GalaxyClientpublic",
+  "homepage": "https://github.com/ShadoIsHere/GalaxyClient_Public",
   "bugs": {
-    "url": "https://github.com/ShadoIsHere/GalaxyClientpublic/issues"
+    "url": "https://github.com/ShadoIsHere/GalaxyClient_Public/issues"
   },
   "private": true,
   "main": "index.js",
@@ -50,6 +50,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ShadoIsHere/GalaxyClientpublic.git"
+    "url": "git+https://github.com/ShadoIsHere/GalaxyClient_Public.git"
   }
 }
